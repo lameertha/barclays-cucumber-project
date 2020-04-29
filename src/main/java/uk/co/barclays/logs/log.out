@@ -1,0 +1,34 @@
+2020-04-29 16:04:608 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 16:04:931 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 16:04:967 INFO  LoginPage :32 - Getting text from [[ChromeDriver: chrome on WINDOWS (e2a5cd5283ce29b38349d5fffcccf1ff)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-29 16:04:849 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 16:04:919 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 16:04:114 INFO  LoginPage :39 - Entering surname : Thevarajahto surname field: [[ChromeDriver: chrome on WINDOWS (fdce3ebf9ae4d3f1b92ec4376a87c552)] -> xpath: //input[@name='surname']]
+2020-04-29 16:04:09 INFO  LoginPage :45 - clicking on next step button : [[ChromeDriver: chrome on WINDOWS (fdce3ebf9ae4d3f1b92ec4376a87c552)] -> xpath: //button[contains(text(),'Next Step')]]
+2020-04-29 16:04:44 INFO  LoginPage :50 - Getting text from [[ChromeDriver: chrome on WINDOWS (fdce3ebf9ae4d3f1b92ec4376a87c552)] -> xpath: //body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]]
+2020-04-29 16:04:919 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:500 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:402 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:834 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 17:04:869 INFO  LoginPage :32 - Getting text from [[ChromeDriver: chrome on WINDOWS (46910f6e5f47de6be5a21b5a96c48293)] -> xpath: //strong[contains(text(),'Quick, safe and convenient')]]
+2020-04-29 17:04:677 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:645 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 17:04:798 INFO  LoginPage :39 - Entering surname : Thevarajahto surname field: [[ChromeDriver: chrome on WINDOWS (99a873091d8915f399ab5f278e6c46ac)] -> xpath: //input[@name='surname']]
+2020-04-29 17:04:507 INFO  LoginPage :45 - clicking on next step button : [[ChromeDriver: chrome on WINDOWS (99a873091d8915f399ab5f278e6c46ac)] -> xpath: //button[contains(text(),'Next Step')]]
+2020-04-29 17:04:545 INFO  LoginPage :50 - Getting text from [[ChromeDriver: chrome on WINDOWS (99a873091d8915f399ab5f278e6c46ac)] -> xpath: //body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]]
+2020-04-29 17:04:437 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:818 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:304 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:392 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 17:04:300 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:918 INFO  HomePage :26 - clicking on login button : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='login btn btn-primary btn-sm']'
+2020-04-29 17:04:77 INFO  LoginPage :39 - Entering surname : Thevarajahto surname field: [[ChromeDriver: chrome on WINDOWS (d5a63896355ba6a1fb900f605630cc7a)] -> xpath: //input[@name='surname']]
+2020-04-29 17:04:720 INFO  LoginPage :45 - clicking on next step button : [[ChromeDriver: chrome on WINDOWS (d5a63896355ba6a1fb900f605630cc7a)] -> xpath: //button[contains(text(),'Next Step')]]
+2020-04-29 17:04:758 INFO  LoginPage :50 - Getting text from [[ChromeDriver: chrome on WINDOWS (d5a63896355ba6a1fb900f605630cc7a)] -> xpath: //body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]]
+2020-04-29 17:04:629 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:526 INFO  HomePage :32 - clicking on register link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='btn-none']'
+2020-04-29 17:04:564 INFO  RegisterPage :26 - Getting text from [[ChromeDriver: chrome on WINDOWS (ce8eaeecef2e3e500bee96e1550d21f1)] -> xpath: //h2[contains(text(),'Register for Online Banking')]]
+2020-04-29 17:04:401 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-29 17:04:475 INFO  HomePage :32 - clicking on register link : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='btn-none']'
+2020-04-29 17:04:631 INFO  RegisterPage :34 - Clicking on start button : [[ChromeDriver: chrome on WINDOWS (0f03af87cac672990dc0ed0687aedb57)] -> xpath: //body//div[2]//div[2]//button[1]]
+2020-04-29 17:04:965 INFO  RegisterPage :38 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0f03af87cac672990dc0ed0687aedb57)] -> xpath: //h4[contains(text(),'Your details')]]
